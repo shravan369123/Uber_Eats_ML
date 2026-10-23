@@ -1,0 +1,1001 @@
+customer_id,signup_date,loyalty_tier,signup_channel
+CUST_00001,2024-08-07,Bronze,Organic
+CUST_00002,2024-06-11,Platinum,Referral
+CUST_00003,2024-08-07,Silver,Social Media
+CUST_00004,2024-09-26,Silver,Paid Ads
+CUST_00005,2025-09-23,Bronze,Paid Ads
+CUST_00006,2025-02-03,Bronze,Paid Ads
+CUST_00007,2024-06-30,Bronze,Paid Ads
+CUST_00008,2025-09-09,Gold,Paid Ads
+CUST_00009,2024-07-23,Silver,Organic
+CUST_00010,2025-08-04,Silver,Referral
+CUST_00011,2025-07-09,Bronze,Organic
+CUST_00012,2024-08-15,Platinum,Social Media
+CUST_00013,2025-11-26,Gold,Social Media
+CUST_00014,2025-09-10,Bronze,Organic
+CUST_00015,2025-08-18,Bronze,Paid Ads
+CUST_00016,2024-09-06,Bronze,Social Media
+CUST_00017,2025-03-16,Bronze,Organic
+CUST_00018,2025-06-16,Silver,Referral
+CUST_00019,2024-07-14,Bronze,Social Media
+CUST_00020,2025-11-20,Bronze,Organic
+CUST_00021,2025-06-02,Silver,Paid Ads
+CUST_00022,2024-03-10,Bronze,Organic
+CUST_00023,2025-09-30,Bronze,Social Media
+CUST_00024,2025-02-02,Bronze,Social Media
+CUST_00025,2025-11-02,Bronze,Social Media
+CUST_00026,2024-07-21,Silver,Referral
+CUST_00027,2024-05-27,Bronze,Social Media
+CUST_00028,2025-04-16,Silver,Paid Ads
+CUST_00029,2025-10-16,Silver,Organic
+CUST_00030,2024-07-17,Bronze,Paid Ads
+CUST_00031,2025-03-01,Silver,Organic
+CUST_00032,2025-10-27,Bronze,Referral
+CUST_00033,2025-05-06,Bronze,Organic
+CUST_00034,2024-05-21,Gold,Organic
+CUST_00035,2024-11-08,Platinum,Organic
+CUST_00036,2024-06-13,Gold,Paid Ads
+CUST_00037,2024-11-09,Bronze,Organic
+CUST_00038,2024-01-21,Bronze,Paid Ads
+CUST_00039,2024-03-22,Silver,Organic
+CUST_00040,2025-08-03,Bronze,Organic
+CUST_00041,2024-05-10,Bronze,Referral
+CUST_00042,2025-08-21,Bronze,Paid Ads
+CUST_00043,2024-10-31,Bronze,Organic
+CUST_00044,2025-01-05,Gold,Referral
+CUST_00045,2025-01-18,Bronze,Social Media
+CUST_00046,2025-03-20,Silver,Referral
+CUST_00047,2025-02-28,Bronze,Organic
+CUST_00048,2024-06-09,Silver,Organic
+CUST_00049,2024-06-26,Silver,Social Media
+CUST_00050,2025-09-20,Bronze,Organic
+CUST_00051,2025-05-04,Platinum,Social Media
+CUST_00052,2024-11-22,Silver,Referral
+CUST_00053,2025-08-20,Gold,Social Media
+CUST_00054,2024-10-15,Gold,Paid Ads
+CUST_00055,2025-08-15,Silver,Social Media
+CUST_00056,2025-10-25,Gold,Organic
+CUST_00057,2025-07-26,Bronze,Paid Ads
+CUST_00058,2025-07-26,Bronze,Referral
+CUST_00059,2024-12-19,Bronze,Referral
+CUST_00060,2024-01-28,Bronze,Referral
+CUST_00061,2024-02-12,Bronze,Social Media
+CUST_00062,2025-11-11,Bronze,Social Media
+CUST_00063,2025-02-26,Gold,Paid Ads
+CUST_00064,2025-08-20,Bronze,Referral
+CUST_00065,2024-06-25,Bronze,Referral
+CUST_00066,2025-06-12,Silver,Paid Ads
+CUST_00067,2025-09-01,Bronze,Organic
+CUST_00068,2025-05-08,Gold,Organic
+CUST_00069,2024-07-16,Bronze,Organic
+CUST_00070,2025-09-01,Platinum,Organic
+CUST_00071,2025-07-30,Silver,Organic
+CUST_00072,2025-05-31,Bronze,Organic
+CUST_00073,2025-05-28,Bronze,Organic
+CUST_00074,2024-01-22,Gold,Organic
+CUST_00075,2024-04-21,Silver,Social Media
+CUST_00076,2024-02-26,Silver,Referral
+CUST_00077,2024-03-06,Silver,Organic
+CUST_00078,2024-04-07,Bronze,Paid Ads
+CUST_00079,2024-05-23,Bronze,Organic
+CUST_00080,2025-03-10,Bronze,Social Media
+CUST_00081,2025-09-28,Gold,Paid Ads
+CUST_00082,2025-11-09,Silver,Organic
+CUST_00083,2024-03-26,Bronze,Referral
+CUST_00084,2025-08-10,Bronze,Social Media
+CUST_00085,2024-12-09,Bronze,Social Media
+CUST_00086,2024-10-20,Bronze,Referral
+CUST_00087,2025-07-24,Silver,Referral
+CUST_00088,2025-10-11,Silver,Organic
+CUST_00089,2025-09-02,Gold,Social Media
+CUST_00090,2024-08-30,Bronze,Organic
+CUST_00091,2025-07-14,Bronze,Social Media
+CUST_00092,2024-02-01,Silver,Referral
+CUST_00093,2025-01-25,Silver,Referral
+CUST_00094,2024-10-03,Silver,Referral
+CUST_00095,2025-06-15,Silver,Organic
+CUST_00096,2024-06-02,Bronze,Organic
+CUST_00097,2025-01-17,Silver,Organic
+CUST_00098,2024-03-08,Bronze,Organic
+CUST_00099,2024-08-01,Bronze,Paid Ads
+CUST_00100,2025-10-16,Bronze,Organic
+CUST_00101,2025-01-10,Bronze,Organic
+CUST_00102,2024-07-31,Silver,Social Media
+CUST_00103,2024-03-19,Bronze,Social Media
+CUST_00104,2025-09-19,Silver,Social Media
+CUST_00105,2025-08-26,Gold,Social Media
+CUST_00106,2025-01-15,Bronze,Organic
+CUST_00107,2025-11-10,Bronze,Organic
+CUST_00108,2024-02-27,Silver,Paid Ads
+CUST_00109,2024-01-26,Bronze,Paid Ads
+CUST_00110,2025-03-22,Bronze,Organic
+CUST_00111,2024-03-06,Bronze,Paid Ads
+CUST_00112,2024-09-10,Bronze,Organic
+CUST_00113,2024-02-13,Gold,Organic
+CUST_00114,2024-04-06,Gold,Referral
+CUST_00115,2025-07-07,Silver,Referral
+CUST_00116,2024-08-14,Gold,Referral
+CUST_00117,2025-11-09,Gold,Organic
+CUST_00118,2025-03-11,Bronze,Social Media
+CUST_00119,2025-08-23,Gold,Organic
+CUST_00120,2025-01-13,Silver,Organic
+CUST_00121,2024-06-26,Gold,Social Media
+CUST_00122,2025-03-02,Gold,Social Media
+CUST_00123,2024-11-02,Bronze,Social Media
+CUST_00124,2025-05-18,Bronze,Paid Ads
+CUST_00125,2024-09-24,Bronze,Paid Ads
+CUST_00126,2025-08-08,Bronze,Referral
+CUST_00127,2024-01-08,Gold,Organic
+CUST_00128,2025-05-22,Gold,Referral
+CUST_00129,2025-04-20,Bronze,Organic
+CUST_00130,2024-10-23,Silver,Organic
+CUST_00131,2024-06-12,Bronze,Paid Ads
+CUST_00132,2025-04-29,Bronze,Referral
+CUST_00133,2025-08-19,Bronze,Organic
+CUST_00134,2024-03-12,Bronze,Organic
+CUST_00135,2025-07-20,Gold,Paid Ads
+CUST_00136,2025-07-12,Bronze,Organic
+CUST_00137,2024-08-25,Silver,Social Media
+CUST_00138,2024-04-13,Silver,Referral
+CUST_00139,2024-07-28,Bronze,Referral
+CUST_00140,2025-07-07,Platinum,Referral
+CUST_00141,2025-04-12,Platinum,Paid Ads
+CUST_00142,2025-03-29,Bronze,Organic
+CUST_00143,2024-09-24,Bronze,Paid Ads
+CUST_00144,2025-01-20,Bronze,Referral
+CUST_00145,2025-01-21,Bronze,Organic
+CUST_00146,2024-09-15,Bronze,Social Media
+CUST_00147,2024-10-09,Silver,Paid Ads
+CUST_00148,2025-09-17,Silver,Paid Ads
+CUST_00149,2024-02-09,Bronze,Social Media
+CUST_00150,2025-04-30,Bronze,Social Media
+CUST_00151,2024-08-07,Gold,Paid Ads
+CUST_00152,2024-05-08,Bronze,Paid Ads
+CUST_00153,2025-06-03,Bronze,Paid Ads
+CUST_00154,2025-09-04,Bronze,Paid Ads
+CUST_00155,2025-11-18,Platinum,Referral
+CUST_00156,2025-09-10,Bronze,Paid Ads
+CUST_00157,2025-09-04,Silver,Organic
+CUST_00158,2024-09-16,Silver,Social Media
+CUST_00159,2024-12-31,Bronze,Social Media
+CUST_00160,2025-06-27,Silver,Organic
+CUST_00161,2025-10-10,Bronze,Paid Ads
+CUST_00162,2025-06-07,Silver,Organic
+CUST_00163,2024-01-16,Silver,Organic
+CUST_00164,2024-05-08,Silver,Paid Ads
+CUST_00165,2025-07-28,Bronze,Organic
+CUST_00166,2024-04-18,Gold,Paid Ads
+CUST_00167,2025-06-16,Bronze,Paid Ads
+CUST_00168,2025-10-31,Bronze,Referral
+CUST_00169,2024-09-25,Bronze,Organic
+CUST_00170,2024-06-10,Silver,Organic
+CUST_00171,2024-09-16,Silver,Referral
+CUST_00172,2024-04-11,Bronze,Social Media
+CUST_00173,2025-05-20,Silver,Referral
+CUST_00174,2025-07-24,Bronze,Organic
+CUST_00175,2024-09-03,Silver,Referral
+CUST_00176,2025-10-01,Bronze,Referral
+CUST_00177,2025-06-20,Silver,Paid Ads
+CUST_00178,2024-05-10,Bronze,Organic
+CUST_00179,2024-12-18,Gold,Paid Ads
+CUST_00180,2024-07-14,Bronze,Referral
+CUST_00181,2025-10-27,Bronze,Social Media
+CUST_00182,2025-01-16,Bronze,Organic
+CUST_00183,2025-10-06,Gold,Referral
+CUST_00184,2024-08-14,Gold,Social Media
+CUST_00185,2025-04-20,Bronze,Organic
+CUST_00186,2025-04-21,Silver,Social Media
+CUST_00187,2024-09-21,Gold,Paid Ads
+CUST_00188,2025-01-06,Silver,Organic
+CUST_00189,2025-04-30,Silver,Organic
+CUST_00190,2025-03-09,Bronze,Paid Ads
+CUST_00191,2025-10-07,Bronze,Organic
+CUST_00192,2024-07-29,Gold,Referral
+CUST_00193,2025-07-25,Gold,Organic
+CUST_00194,2025-01-11,Silver,Referral
+CUST_00195,2025-01-29,Bronze,Organic
+CUST_00196,2025-03-25,Bronze,Social Media
+CUST_00197,2024-12-29,Silver,Social Media
+CUST_00198,2025-04-01,Gold,Social Media
+CUST_00199,2024-08-13,Gold,Paid Ads
+CUST_00200,2024-05-10,Silver,Organic
+CUST_00201,2025-08-10,Silver,Paid Ads
+CUST_00202,2025-04-20,Bronze,Organic
+CUST_00203,2024-10-03,Bronze,Organic
+CUST_00204,2024-06-04,Gold,Organic
+CUST_00205,2024-08-05,Silver,Referral
+CUST_00206,2024-07-08,Bronze,Paid Ads
+CUST_00207,2025-02-20,Bronze,Paid Ads
+CUST_00208,2025-11-05,Silver,Referral
+CUST_00209,2025-11-22,Bronze,Organic
+CUST_00210,2025-06-29,Bronze,Social Media
+CUST_00211,2024-02-10,Silver,Referral
+CUST_00212,2024-11-02,Silver,Referral
+CUST_00213,2024-12-03,Silver,Organic
+CUST_00214,2024-11-09,Bronze,Paid Ads
+CUST_00215,2024-03-15,Silver,Paid Ads
+CUST_00216,2024-10-05,Bronze,Organic
+CUST_00217,2024-06-24,Bronze,Organic
+CUST_00218,2025-10-23,Silver,Paid Ads
+CUST_00219,2024-09-29,Silver,Paid Ads
+CUST_00220,2025-09-11,Gold,Organic
+CUST_00221,2025-10-12,Silver,Social Media
+CUST_00222,2024-10-15,Silver,Organic
+CUST_00223,2024-09-28,Bronze,Referral
+CUST_00224,2024-03-06,Bronze,Social Media
+CUST_00225,2025-04-27,Bronze,Referral
+CUST_00226,2024-09-04,Bronze,Referral
+CUST_00227,2024-06-04,Platinum,Organic
+CUST_00228,2024-02-16,Bronze,Organic
+CUST_00229,2025-03-29,Gold,Social Media
+CUST_00230,2024-07-19,Silver,Referral
+CUST_00231,2025-10-21,Silver,Social Media
+CUST_00232,2024-05-03,Silver,Organic
+CUST_00233,2024-01-01,Silver,Organic
+CUST_00234,2025-10-01,Bronze,Organic
+CUST_00235,2024-07-09,Bronze,Paid Ads
+CUST_00236,2025-08-01,Silver,Organic
+CUST_00237,2025-05-30,Bronze,Social Media
+CUST_00238,2025-03-17,Bronze,Referral
+CUST_00239,2024-05-22,Silver,Social Media
+CUST_00240,2024-07-09,Bronze,Organic
+CUST_00241,2025-06-16,Gold,Social Media
+CUST_00242,2024-08-14,Platinum,Paid Ads
+CUST_00243,2024-11-08,Gold,Paid Ads
+CUST_00244,2025-09-20,Bronze,Paid Ads
+CUST_00245,2024-10-28,Bronze,Paid Ads
+CUST_00246,2025-10-15,Gold,Referral
+CUST_00247,2025-04-04,Bronze,Organic
+CUST_00248,2025-02-04,Platinum,Organic
+CUST_00249,2025-07-04,Platinum,Social Media
+CUST_00250,2025-01-27,Gold,Referral
+CUST_00251,2024-07-25,Bronze,Paid Ads
+CUST_00252,2024-07-28,Bronze,Referral
+CUST_00253,2024-04-24,Gold,Organic
+CUST_00254,2025-10-07,Bronze,Organic
+CUST_00255,2024-09-07,Bronze,Paid Ads
+CUST_00256,2024-08-06,Silver,Referral
+CUST_00257,2025-02-10,Gold,Organic
+CUST_00258,2025-03-18,Silver,Referral
+CUST_00259,2025-08-25,Silver,Organic
+CUST_00260,2024-12-19,Bronze,Referral
+CUST_00261,2025-07-11,Silver,Organic
+CUST_00262,2025-07-03,Platinum,Paid Ads
+CUST_00263,2024-05-21,Bronze,Organic
+CUST_00264,2025-09-03,Silver,Referral
+CUST_00265,2025-05-15,Gold,Organic
+CUST_00266,2025-06-30,Silver,Organic
+CUST_00267,2025-10-20,Silver,Organic
+CUST_00268,2025-06-25,Silver,Referral
+CUST_00269,2025-05-21,Bronze,Referral
+CUST_00270,2025-08-18,Bronze,Organic
+CUST_00271,2024-10-07,Gold,Paid Ads
+CUST_00272,2025-02-27,Gold,Social Media
+CUST_00273,2024-09-26,Gold,Paid Ads
+CUST_00274,2024-06-02,Gold,Organic
+CUST_00275,2025-09-05,Silver,Referral
+CUST_00276,2025-10-23,Silver,Organic
+CUST_00277,2024-03-23,Silver,Organic
+CUST_00278,2025-09-13,Silver,Social Media
+CUST_00279,2025-03-01,Silver,Organic
+CUST_00280,2024-10-01,Silver,Referral
+CUST_00281,2024-10-10,Gold,Referral
+CUST_00282,2024-06-21,Bronze,Paid Ads
+CUST_00283,2024-11-22,Bronze,Referral
+CUST_00284,2024-03-03,Bronze,Organic
+CUST_00285,2024-03-13,Silver,Organic
+CUST_00286,2025-09-27,Bronze,Referral
+CUST_00287,2025-01-09,Bronze,Organic
+CUST_00288,2025-09-24,Silver,Organic
+CUST_00289,2025-05-22,Bronze,Organic
+CUST_00290,2025-02-01,Silver,Organic
+CUST_00291,2024-04-29,Bronze,Organic
+CUST_00292,2025-03-12,Bronze,Organic
+CUST_00293,2025-11-06,Gold,Referral
+CUST_00294,2025-04-09,Bronze,Paid Ads
+CUST_00295,2024-10-12,Bronze,Paid Ads
+CUST_00296,2024-09-21,Silver,Organic
+CUST_00297,2024-11-15,Silver,Organic
+CUST_00298,2025-11-03,Bronze,Organic
+CUST_00299,2025-01-10,Silver,Referral
+CUST_00300,2024-03-29,Bronze,Paid Ads
+CUST_00301,2025-10-15,Bronze,Organic
+CUST_00302,2024-07-21,Silver,Social Media
+CUST_00303,2024-11-29,Silver,Organic
+CUST_00304,2024-08-09,Silver,Referral
+CUST_00305,2024-02-10,Silver,Paid Ads
+CUST_00306,2024-03-08,Platinum,Social Media
+CUST_00307,2025-05-28,Silver,Paid Ads
+CUST_00308,2025-09-28,Bronze,Paid Ads
+CUST_00309,2025-09-13,Silver,Organic
+CUST_00310,2025-08-20,Bronze,Paid Ads
+CUST_00311,2025-09-23,Bronze,Organic
+CUST_00312,2024-05-06,Bronze,Social Media
+CUST_00313,2024-09-11,Bronze,Referral
+CUST_00314,2025-11-25,Platinum,Paid Ads
+CUST_00315,2024-01-16,Gold,Referral
+CUST_00316,2025-04-21,Silver,Referral
+CUST_00317,2024-03-02,Bronze,Referral
+CUST_00318,2025-03-07,Bronze,Paid Ads
+CUST_00319,2025-10-31,Bronze,Organic
+CUST_00320,2024-09-24,Bronze,Organic
+CUST_00321,2024-02-04,Silver,Organic
+CUST_00322,2025-07-29,Silver,Organic
+CUST_00323,2025-05-08,Silver,Social Media
+CUST_00324,2025-07-15,Bronze,Organic
+CUST_00325,2025-04-13,Platinum,Social Media
+CUST_00326,2025-10-22,Silver,Organic
+CUST_00327,2024-11-20,Silver,Organic
+CUST_00328,2024-10-30,Silver,Paid Ads
+CUST_00329,2024-10-02,Bronze,Paid Ads
+CUST_00330,2025-11-14,Bronze,Referral
+CUST_00331,2024-07-19,Bronze,Referral
+CUST_00332,2025-03-20,Silver,Paid Ads
+CUST_00333,2024-11-19,Bronze,Organic
+CUST_00334,2024-02-04,Bronze,Social Media
+CUST_00335,2025-04-26,Bronze,Social Media
+CUST_00336,2025-04-24,Bronze,Paid Ads
+CUST_00337,2024-03-05,Gold,Organic
+CUST_00338,2024-01-08,Silver,Paid Ads
+CUST_00339,2024-10-27,Bronze,Organic
+CUST_00340,2024-12-08,Bronze,Organic
+CUST_00341,2025-03-06,Bronze,Organic
+CUST_00342,2025-02-27,Bronze,Referral
+CUST_00343,2024-11-27,Bronze,Social Media
+CUST_00344,2025-03-13,Bronze,Paid Ads
+CUST_00345,2025-08-10,Bronze,Paid Ads
+CUST_00346,2024-06-22,Silver,Referral
+CUST_00347,2025-07-12,Silver,Organic
+CUST_00348,2025-06-10,Bronze,Organic
+CUST_00349,2025-10-20,Bronze,Social Media
+CUST_00350,2024-01-26,Silver,Organic
+CUST_00351,2025-08-27,Silver,Social Media
+CUST_00352,2025-02-09,Gold,Referral
+CUST_00353,2024-08-19,Silver,Referral
+CUST_00354,2025-06-16,Bronze,Paid Ads
+CUST_00355,2025-07-03,Bronze,Referral
+CUST_00356,2025-05-19,Silver,Social Media
+CUST_00357,2025-10-30,Bronze,Social Media
+CUST_00358,2024-06-27,Silver,Referral
+CUST_00359,2024-05-11,Gold,Organic
+CUST_00360,2025-03-30,Silver,Referral
+CUST_00361,2024-12-13,Bronze,Social Media
+CUST_00362,2025-06-23,Silver,Organic
+CUST_00363,2025-02-09,Bronze,Referral
+CUST_00364,2024-03-16,Silver,Referral
+CUST_00365,2025-08-01,Gold,Paid Ads
+CUST_00366,2025-05-06,Bronze,Organic
+CUST_00367,2024-07-12,Platinum,Paid Ads
+CUST_00368,2024-06-10,Gold,Social Media
+CUST_00369,2024-12-12,Bronze,Organic
+CUST_00370,2024-12-26,Bronze,Organic
+CUST_00371,2025-08-06,Bronze,Social Media
+CUST_00372,2024-03-27,Bronze,Organic
+CUST_00373,2024-09-18,Bronze,Social Media
+CUST_00374,2024-08-01,Silver,Referral
+CUST_00375,2025-10-26,Bronze,Organic
+CUST_00376,2025-07-26,Bronze,Social Media
+CUST_00377,2024-09-18,Gold,Referral
+CUST_00378,2024-10-09,Bronze,Referral
+CUST_00379,2025-10-09,Gold,Organic
+CUST_00380,2025-04-11,Bronze,Referral
+CUST_00381,2025-01-14,Bronze,Organic
+CUST_00382,2024-12-27,Silver,Organic
+CUST_00383,2025-03-24,Silver,Social Media
+CUST_00384,2025-03-16,Gold,Organic
+CUST_00385,2024-04-02,Silver,Paid Ads
+CUST_00386,2025-09-12,Gold,Organic
+CUST_00387,2025-02-27,Bronze,Paid Ads
+CUST_00388,2024-05-21,Bronze,Organic
+CUST_00389,2024-10-17,Silver,Social Media
+CUST_00390,2025-03-07,Gold,Referral
+CUST_00391,2025-11-19,Platinum,Organic
+CUST_00392,2025-10-14,Bronze,Organic
+CUST_00393,2024-02-18,Bronze,Organic
+CUST_00394,2024-10-28,Silver,Referral
+CUST_00395,2024-07-08,Bronze,Organic
+CUST_00396,2024-05-15,Gold,Paid Ads
+CUST_00397,2025-07-08,Gold,Referral
+CUST_00398,2025-02-07,Bronze,Organic
+CUST_00399,2025-08-24,Silver,Referral
+CUST_00400,2024-12-06,Silver,Paid Ads
+CUST_00401,2024-11-13,Bronze,Organic
+CUST_00402,2025-09-09,Gold,Organic
+CUST_00403,2024-12-28,Silver,Organic
+CUST_00404,2025-01-16,Gold,Paid Ads
+CUST_00405,2024-08-20,Bronze,Paid Ads
+CUST_00406,2024-12-09,Gold,Referral
+CUST_00407,2025-07-02,Bronze,Paid Ads
+CUST_00408,2025-07-06,Bronze,Paid Ads
+CUST_00409,2025-06-12,Gold,Referral
+CUST_00410,2025-07-24,Bronze,Social Media
+CUST_00411,2024-07-01,Bronze,Organic
+CUST_00412,2024-02-10,Platinum,Organic
+CUST_00413,2025-07-04,Platinum,Organic
+CUST_00414,2025-01-31,Silver,Organic
+CUST_00415,2025-05-08,Silver,Referral
+CUST_00416,2025-10-20,Bronze,Social Media
+CUST_00417,2024-11-28,Bronze,Organic
+CUST_00418,2024-05-06,Bronze,Organic
+CUST_00419,2025-07-11,Silver,Referral
+CUST_00420,2025-07-10,Silver,Social Media
+CUST_00421,2024-01-01,Silver,Organic
+CUST_00422,2024-06-16,Silver,Referral
+CUST_00423,2025-09-11,Bronze,Organic
+CUST_00424,2024-01-19,Bronze,Organic
+CUST_00425,2024-11-27,Bronze,Social Media
+CUST_00426,2025-08-06,Silver,Social Media
+CUST_00427,2025-03-31,Bronze,Organic
+CUST_00428,2024-04-18,Gold,Social Media
+CUST_00429,2024-09-24,Bronze,Referral
+CUST_00430,2025-03-20,Bronze,Social Media
+CUST_00431,2024-08-27,Bronze,Referral
+CUST_00432,2024-10-27,Silver,Referral
+CUST_00433,2025-08-24,Silver,Referral
+CUST_00434,2024-04-12,Bronze,Paid Ads
+CUST_00435,2024-09-06,Bronze,Organic
+CUST_00436,2025-03-28,Silver,Organic
+CUST_00437,2025-06-03,Bronze,Organic
+CUST_00438,2024-06-01,Gold,Paid Ads
+CUST_00439,2024-06-22,Silver,Organic
+CUST_00440,2024-12-08,Bronze,Paid Ads
+CUST_00441,2025-10-31,Bronze,Social Media
+CUST_00442,2025-03-06,Platinum,Organic
+CUST_00443,2025-11-19,Bronze,Paid Ads
+CUST_00444,2025-11-17,Bronze,Referral
+CUST_00445,2025-10-19,Gold,Social Media
+CUST_00446,2024-11-19,Gold,Organic
+CUST_00447,2025-11-03,Platinum,Paid Ads
+CUST_00448,2025-09-30,Silver,Paid Ads
+CUST_00449,2025-02-23,Bronze,Social Media
+CUST_00450,2025-08-16,Bronze,Paid Ads
+CUST_00451,2025-04-29,Silver,Referral
+CUST_00452,2025-10-20,Silver,Referral
+CUST_00453,2025-02-15,Bronze,Social Media
+CUST_00454,2024-03-24,Gold,Referral
+CUST_00455,2024-04-22,Bronze,Organic
+CUST_00456,2024-11-27,Bronze,Social Media
+CUST_00457,2025-01-12,Bronze,Paid Ads
+CUST_00458,2025-10-16,Bronze,Paid Ads
+CUST_00459,2024-02-10,Bronze,Organic
+CUST_00460,2024-04-14,Bronze,Paid Ads
+CUST_00461,2024-07-20,Bronze,Organic
+CUST_00462,2025-03-25,Silver,Paid Ads
+CUST_00463,2024-09-22,Silver,Organic
+CUST_00464,2024-07-28,Silver,Paid Ads
+CUST_00465,2025-07-16,Platinum,Social Media
+CUST_00466,2024-04-27,Bronze,Organic
+CUST_00467,2025-01-11,Bronze,Social Media
+CUST_00468,2025-07-04,Gold,Referral
+CUST_00469,2025-06-23,Bronze,Social Media
+CUST_00470,2024-03-24,Platinum,Paid Ads
+CUST_00471,2025-03-29,Bronze,Referral
+CUST_00472,2025-10-28,Platinum,Paid Ads
+CUST_00473,2025-09-20,Bronze,Social Media
+CUST_00474,2025-05-28,Gold,Referral
+CUST_00475,2025-08-27,Silver,Organic
+CUST_00476,2025-11-08,Platinum,Paid Ads
+CUST_00477,2025-01-21,Bronze,Paid Ads
+CUST_00478,2024-12-15,Silver,Paid Ads
+CUST_00479,2024-10-22,Platinum,Paid Ads
+CUST_00480,2024-09-14,Silver,Referral
+CUST_00481,2024-03-21,Silver,Paid Ads
+CUST_00482,2024-09-24,Silver,Organic
+CUST_00483,2025-02-22,Bronze,Referral
+CUST_00484,2024-08-22,Silver,Organic
+CUST_00485,2024-11-06,Silver,Organic
+CUST_00486,2024-12-22,Gold,Organic
+CUST_00487,2024-07-31,Bronze,Organic
+CUST_00488,2025-07-27,Bronze,Paid Ads
+CUST_00489,2024-02-18,Platinum,Organic
+CUST_00490,2024-05-06,Gold,Referral
+CUST_00491,2024-08-10,Bronze,Organic
+CUST_00492,2024-10-05,Silver,Organic
+CUST_00493,2025-02-11,Bronze,Organic
+CUST_00494,2025-05-19,Bronze,Organic
+CUST_00495,2024-10-20,Bronze,Referral
+CUST_00496,2024-10-03,Bronze,Paid Ads
+CUST_00497,2025-03-13,Silver,Referral
+CUST_00498,2024-04-16,Bronze,Referral
+CUST_00499,2025-10-19,Platinum,Organic
+CUST_00500,2025-02-23,Platinum,Social Media
+CUST_00501,2025-09-02,Silver,Referral
+CUST_00502,2025-03-04,Silver,Referral
+CUST_00503,2025-01-09,Bronze,Organic
+CUST_00504,2024-03-13,Gold,Organic
+CUST_00505,2025-09-25,Silver,Organic
+CUST_00506,2024-01-30,Bronze,Organic
+CUST_00507,2024-07-06,Gold,Referral
+CUST_00508,2024-12-29,Gold,Referral
+CUST_00509,2025-03-26,Gold,Referral
+CUST_00510,2024-07-13,Silver,Paid Ads
+CUST_00511,2024-06-04,Silver,Paid Ads
+CUST_00512,2024-06-20,Bronze,Paid Ads
+CUST_00513,2024-02-10,Gold,Social Media
+CUST_00514,2024-03-03,Gold,Organic
+CUST_00515,2024-01-23,Bronze,Organic
+CUST_00516,2024-12-25,Bronze,Organic
+CUST_00517,2024-03-15,Bronze,Referral
+CUST_00518,2025-07-13,Gold,Social Media
+CUST_00519,2025-11-02,Platinum,Organic
+CUST_00520,2024-04-27,Bronze,Social Media
+CUST_00521,2025-09-03,Silver,Organic
+CUST_00522,2025-01-14,Bronze,Social Media
+CUST_00523,2025-11-09,Platinum,Organic
+CUST_00524,2024-10-16,Gold,Organic
+CUST_00525,2025-03-15,Gold,Referral
+CUST_00526,2025-10-29,Bronze,Organic
+CUST_00527,2024-01-07,Bronze,Organic
+CUST_00528,2024-07-14,Bronze,Organic
+CUST_00529,2025-02-24,Bronze,Paid Ads
+CUST_00530,2025-07-21,Gold,Referral
+CUST_00531,2024-07-11,Gold,Organic
+CUST_00532,2025-07-12,Platinum,Referral
+CUST_00533,2024-05-27,Platinum,Paid Ads
+CUST_00534,2025-10-30,Silver,Organic
+CUST_00535,2024-07-20,Silver,Referral
+CUST_00536,2025-03-19,Gold,Organic
+CUST_00537,2025-02-22,Gold,Organic
+CUST_00538,2025-03-02,Bronze,Paid Ads
+CUST_00539,2025-04-23,Bronze,Organic
+CUST_00540,2025-04-19,Bronze,Referral
+CUST_00541,2024-05-05,Platinum,Paid Ads
+CUST_00542,2025-01-29,Silver,Organic
+CUST_00543,2025-07-29,Bronze,Referral
+CUST_00544,2024-11-20,Silver,Organic
+CUST_00545,2025-01-26,Silver,Social Media
+CUST_00546,2025-11-18,Bronze,Referral
+CUST_00547,2025-09-19,Bronze,Paid Ads
+CUST_00548,2025-03-15,Silver,Referral
+CUST_00549,2024-07-22,Silver,Organic
+CUST_00550,2025-04-30,Silver,Referral
+CUST_00551,2024-01-31,Silver,Social Media
+CUST_00552,2025-01-22,Gold,Referral
+CUST_00553,2025-09-16,Silver,Paid Ads
+CUST_00554,2025-03-09,Silver,Social Media
+CUST_00555,2025-01-10,Gold,Organic
+CUST_00556,2024-12-09,Bronze,Organic
+CUST_00557,2025-03-18,Bronze,Referral
+CUST_00558,2025-08-01,Bronze,Referral
+CUST_00559,2024-03-15,Silver,Paid Ads
+CUST_00560,2025-07-10,Silver,Social Media
+CUST_00561,2025-10-27,Silver,Organic
+CUST_00562,2024-06-03,Bronze,Organic
+CUST_00563,2025-03-05,Bronze,Paid Ads
+CUST_00564,2024-12-28,Bronze,Organic
+CUST_00565,2025-03-23,Bronze,Paid Ads
+CUST_00566,2024-08-21,Silver,Referral
+CUST_00567,2025-07-16,Bronze,Paid Ads
+CUST_00568,2024-09-18,Bronze,Organic
+CUST_00569,2024-05-04,Gold,Referral
+CUST_00570,2024-09-01,Bronze,Referral
+CUST_00571,2025-06-25,Silver,Referral
+CUST_00572,2025-04-29,Silver,Organic
+CUST_00573,2024-05-01,Bronze,Paid Ads
+CUST_00574,2024-05-04,Silver,Social Media
+CUST_00575,2025-07-02,Gold,Organic
+CUST_00576,2024-06-18,Gold,Organic
+CUST_00577,2024-05-03,Bronze,Organic
+CUST_00578,2024-02-04,Gold,Referral
+CUST_00579,2024-03-27,Bronze,Referral
+CUST_00580,2025-10-07,Bronze,Referral
+CUST_00581,2024-07-19,Bronze,Organic
+CUST_00582,2025-01-03,Platinum,Organic
+CUST_00583,2024-03-17,Bronze,Referral
+CUST_00584,2024-02-28,Bronze,Referral
+CUST_00585,2025-03-06,Silver,Social Media
+CUST_00586,2025-09-29,Bronze,Organic
+CUST_00587,2025-05-14,Bronze,Paid Ads
+CUST_00588,2024-04-18,Bronze,Referral
+CUST_00589,2024-10-04,Bronze,Referral
+CUST_00590,2024-03-08,Bronze,Paid Ads
+CUST_00591,2024-03-09,Bronze,Paid Ads
+CUST_00592,2024-06-13,Silver,Social Media
+CUST_00593,2025-05-03,Bronze,Organic
+CUST_00594,2024-10-31,Bronze,Organic
+CUST_00595,2025-11-04,Gold,Paid Ads
+CUST_00596,2024-12-30,Bronze,Referral
+CUST_00597,2025-01-13,Silver,Organic
+CUST_00598,2024-12-08,Bronze,Organic
+CUST_00599,2025-07-07,Bronze,Organic
+CUST_00600,2024-12-19,Bronze,Social Media
+CUST_00601,2025-02-19,Bronze,Organic
+CUST_00602,2024-04-18,Bronze,Organic
+CUST_00603,2025-07-16,Bronze,Organic
+CUST_00604,2025-05-11,Bronze,Organic
+CUST_00605,2024-12-06,Bronze,Organic
+CUST_00606,2025-01-17,Bronze,Referral
+CUST_00607,2025-06-16,Bronze,Organic
+CUST_00608,2024-10-26,Bronze,Paid Ads
+CUST_00609,2024-05-18,Silver,Organic
+CUST_00610,2024-12-24,Silver,Referral
+CUST_00611,2025-05-13,Bronze,Social Media
+CUST_00612,2025-01-19,Silver,Paid Ads
+CUST_00613,2025-08-26,Silver,Referral
+CUST_00614,2024-10-06,Bronze,Organic
+CUST_00615,2025-09-28,Gold,Organic
+CUST_00616,2025-04-27,Gold,Paid Ads
+CUST_00617,2024-04-20,Bronze,Social Media
+CUST_00618,2024-05-18,Bronze,Paid Ads
+CUST_00619,2025-03-10,Gold,Referral
+CUST_00620,2025-05-23,Silver,Paid Ads
+CUST_00621,2024-09-29,Bronze,Referral
+CUST_00622,2024-04-08,Bronze,Organic
+CUST_00623,2024-04-13,Bronze,Referral
+CUST_00624,2024-08-01,Bronze,Social Media
+CUST_00625,2025-10-25,Silver,Organic
+CUST_00626,2024-06-13,Bronze,Paid Ads
+CUST_00627,2025-06-03,Bronze,Organic
+CUST_00628,2024-10-10,Silver,Referral
+CUST_00629,2025-05-31,Bronze,Organic
+CUST_00630,2025-10-18,Bronze,Referral
+CUST_00631,2025-09-04,Silver,Paid Ads
+CUST_00632,2024-06-12,Gold,Organic
+CUST_00633,2025-10-20,Silver,Paid Ads
+CUST_00634,2024-03-04,Silver,Paid Ads
+CUST_00635,2024-03-31,Bronze,Social Media
+CUST_00636,2024-04-26,Bronze,Organic
+CUST_00637,2024-09-23,Silver,Organic
+CUST_00638,2025-11-15,Bronze,Organic
+CUST_00639,2025-07-12,Bronze,Social Media
+CUST_00640,2024-05-19,Bronze,Social Media
+CUST_00641,2024-09-02,Bronze,Referral
+CUST_00642,2025-10-22,Bronze,Paid Ads
+CUST_00643,2025-01-29,Bronze,Referral
+CUST_00644,2025-05-01,Bronze,Referral
+CUST_00645,2025-04-20,Bronze,Organic
+CUST_00646,2025-05-31,Gold,Paid Ads
+CUST_00647,2024-07-02,Silver,Organic
+CUST_00648,2024-01-20,Silver,Paid Ads
+CUST_00649,2025-07-11,Silver,Paid Ads
+CUST_00650,2025-06-07,Bronze,Paid Ads
+CUST_00651,2025-08-04,Bronze,Organic
+CUST_00652,2025-06-12,Silver,Organic
+CUST_00653,2024-05-26,Silver,Organic
+CUST_00654,2025-10-27,Silver,Organic
+CUST_00655,2024-10-30,Bronze,Organic
+CUST_00656,2025-09-11,Bronze,Social Media
+CUST_00657,2025-08-04,Bronze,Referral
+CUST_00658,2025-11-25,Bronze,Organic
+CUST_00659,2024-08-15,Silver,Organic
+CUST_00660,2024-04-11,Silver,Referral
+CUST_00661,2025-08-09,Bronze,Referral
+CUST_00662,2025-02-20,Platinum,Referral
+CUST_00663,2024-08-03,Silver,Social Media
+CUST_00664,2025-02-10,Bronze,Referral
+CUST_00665,2025-02-02,Bronze,Social Media
+CUST_00666,2025-05-13,Bronze,Social Media
+CUST_00667,2025-04-09,Bronze,Organic
+CUST_00668,2025-11-21,Bronze,Social Media
+CUST_00669,2024-03-22,Bronze,Organic
+CUST_00670,2025-08-26,Bronze,Paid Ads
+CUST_00671,2025-11-17,Bronze,Organic
+CUST_00672,2024-12-30,Gold,Social Media
+CUST_00673,2024-06-11,Bronze,Social Media
+CUST_00674,2024-02-17,Silver,Paid Ads
+CUST_00675,2025-05-25,Bronze,Paid Ads
+CUST_00676,2024-11-24,Platinum,Organic
+CUST_00677,2024-04-25,Bronze,Organic
+CUST_00678,2024-12-02,Bronze,Referral
+CUST_00679,2024-05-26,Platinum,Organic
+CUST_00680,2025-07-28,Gold,Paid Ads
+CUST_00681,2024-11-18,Gold,Organic
+CUST_00682,2025-03-18,Bronze,Social Media
+CUST_00683,2024-01-13,Bronze,Referral
+CUST_00684,2025-05-08,Silver,Paid Ads
+CUST_00685,2024-10-13,Gold,Organic
+CUST_00686,2024-04-23,Silver,Social Media
+CUST_00687,2025-04-24,Silver,Social Media
+CUST_00688,2024-01-22,Bronze,Referral
+CUST_00689,2024-12-14,Silver,Referral
+CUST_00690,2025-11-13,Bronze,Paid Ads
+CUST_00691,2025-07-19,Bronze,Organic
+CUST_00692,2024-11-15,Bronze,Referral
+CUST_00693,2024-05-05,Silver,Organic
+CUST_00694,2024-10-03,Bronze,Organic
+CUST_00695,2024-07-22,Bronze,Organic
+CUST_00696,2024-07-12,Silver,Organic
+CUST_00697,2025-11-11,Bronze,Organic
+CUST_00698,2025-10-25,Silver,Organic
+CUST_00699,2025-06-30,Bronze,Social Media
+CUST_00700,2025-11-26,Bronze,Referral
+CUST_00701,2024-10-12,Silver,Social Media
+CUST_00702,2024-02-26,Bronze,Referral
+CUST_00703,2024-10-29,Bronze,Organic
+CUST_00704,2024-06-11,Bronze,Referral
+CUST_00705,2024-01-19,Bronze,Referral
+CUST_00706,2025-01-04,Platinum,Organic
+CUST_00707,2024-09-20,Bronze,Referral
+CUST_00708,2024-04-22,Gold,Organic
+CUST_00709,2025-05-02,Bronze,Referral
+CUST_00710,2024-11-22,Silver,Paid Ads
+CUST_00711,2025-06-25,Silver,Organic
+CUST_00712,2025-10-08,Silver,Organic
+CUST_00713,2025-08-01,Bronze,Paid Ads
+CUST_00714,2024-03-05,Bronze,Referral
+CUST_00715,2024-10-18,Bronze,Organic
+CUST_00716,2024-01-25,Gold,Social Media
+CUST_00717,2025-07-02,Gold,Organic
+CUST_00718,2024-01-01,Platinum,Paid Ads
+CUST_00719,2025-07-02,Bronze,Social Media
+CUST_00720,2024-05-20,Silver,Organic
+CUST_00721,2025-10-09,Gold,Organic
+CUST_00722,2024-07-06,Bronze,Organic
+CUST_00723,2024-05-07,Bronze,Organic
+CUST_00724,2024-07-19,Silver,Organic
+CUST_00725,2024-05-06,Silver,Paid Ads
+CUST_00726,2024-09-13,Gold,Organic
+CUST_00727,2025-11-06,Bronze,Referral
+CUST_00728,2025-06-30,Silver,Social Media
+CUST_00729,2024-07-12,Bronze,Paid Ads
+CUST_00730,2024-04-13,Bronze,Referral
+CUST_00731,2025-06-18,Bronze,Organic
+CUST_00732,2024-09-21,Gold,Referral
+CUST_00733,2025-01-18,Silver,Referral
+CUST_00734,2024-09-16,Silver,Referral
+CUST_00735,2025-02-17,Bronze,Organic
+CUST_00736,2024-12-23,Gold,Social Media
+CUST_00737,2024-03-15,Bronze,Referral
+CUST_00738,2024-12-20,Gold,Organic
+CUST_00739,2025-08-06,Bronze,Organic
+CUST_00740,2024-07-06,Bronze,Referral
+CUST_00741,2025-11-15,Bronze,Paid Ads
+CUST_00742,2024-10-16,Bronze,Paid Ads
+CUST_00743,2024-02-14,Silver,Paid Ads
+CUST_00744,2025-07-26,Silver,Organic
+CUST_00745,2024-03-23,Bronze,Referral
+CUST_00746,2024-05-02,Gold,Referral
+CUST_00747,2024-12-23,Bronze,Organic
+CUST_00748,2025-06-11,Silver,Organic
+CUST_00749,2024-03-06,Gold,Paid Ads
+CUST_00750,2025-10-18,Silver,Organic
+CUST_00751,2025-01-09,Bronze,Referral
+CUST_00752,2024-06-10,Gold,Organic
+CUST_00753,2025-01-14,Silver,Organic
+CUST_00754,2025-10-17,Bronze,Organic
+CUST_00755,2024-12-23,Bronze,Social Media
+CUST_00756,2024-07-06,Silver,Paid Ads
+CUST_00757,2024-11-17,Silver,Social Media
+CUST_00758,2025-03-25,Silver,Referral
+CUST_00759,2025-04-18,Gold,Organic
+CUST_00760,2024-01-13,Silver,Referral
+CUST_00761,2024-07-02,Bronze,Referral
+CUST_00762,2024-04-20,Bronze,Paid Ads
+CUST_00763,2025-05-22,Bronze,Organic
+CUST_00764,2024-10-16,Silver,Referral
+CUST_00765,2024-10-21,Bronze,Organic
+CUST_00766,2025-03-26,Silver,Organic
+CUST_00767,2024-08-02,Silver,Paid Ads
+CUST_00768,2025-09-23,Gold,Referral
+CUST_00769,2025-07-20,Bronze,Organic
+CUST_00770,2024-01-27,Gold,Organic
+CUST_00771,2025-09-21,Bronze,Referral
+CUST_00772,2024-08-18,Gold,Paid Ads
+CUST_00773,2025-07-18,Bronze,Social Media
+CUST_00774,2024-11-16,Bronze,Social Media
+CUST_00775,2024-08-20,Silver,Paid Ads
+CUST_00776,2025-10-31,Bronze,Organic
+CUST_00777,2025-03-12,Bronze,Paid Ads
+CUST_00778,2025-06-16,Silver,Referral
+CUST_00779,2025-02-06,Silver,Organic
+CUST_00780,2024-02-22,Silver,Paid Ads
+CUST_00781,2024-11-08,Silver,Organic
+CUST_00782,2024-10-07,Silver,Social Media
+CUST_00783,2024-01-31,Bronze,Referral
+CUST_00784,2024-12-02,Bronze,Referral
+CUST_00785,2024-07-01,Bronze,Paid Ads
+CUST_00786,2024-01-23,Gold,Social Media
+CUST_00787,2025-06-27,Silver,Referral
+CUST_00788,2025-03-21,Bronze,Referral
+CUST_00789,2024-03-14,Bronze,Organic
+CUST_00790,2024-01-10,Gold,Referral
+CUST_00791,2025-04-28,Bronze,Organic
+CUST_00792,2025-03-31,Silver,Paid Ads
+CUST_00793,2025-07-19,Silver,Referral
+CUST_00794,2025-07-17,Silver,Paid Ads
+CUST_00795,2025-10-21,Bronze,Organic
+CUST_00796,2024-06-08,Gold,Organic
+CUST_00797,2024-01-14,Gold,Paid Ads
+CUST_00798,2024-06-26,Silver,Organic
+CUST_00799,2025-02-15,Silver,Organic
+CUST_00800,2024-02-22,Gold,Organic
+CUST_00801,2025-02-11,Silver,Social Media
+CUST_00802,2024-01-22,Bronze,Paid Ads
+CUST_00803,2024-01-30,Silver,Organic
+CUST_00804,2024-09-16,Silver,Organic
+CUST_00805,2024-07-23,Bronze,Organic
+CUST_00806,2024-02-28,Silver,Paid Ads
+CUST_00807,2025-04-15,Gold,Paid Ads
+CUST_00808,2025-04-10,Gold,Organic
+CUST_00809,2024-01-12,Bronze,Organic
+CUST_00810,2025-09-22,Bronze,Organic
+CUST_00811,2024-10-16,Platinum,Paid Ads
+CUST_00812,2024-12-19,Gold,Paid Ads
+CUST_00813,2025-09-30,Bronze,Organic
+CUST_00814,2024-03-15,Gold,Organic
+CUST_00815,2025-07-14,Gold,Organic
+CUST_00816,2025-08-13,Silver,Social Media
+CUST_00817,2025-03-16,Silver,Organic
+CUST_00818,2024-08-28,Bronze,Paid Ads
+CUST_00819,2024-06-02,Bronze,Referral
+CUST_00820,2024-04-05,Bronze,Organic
+CUST_00821,2024-10-20,Gold,Organic
+CUST_00822,2024-07-27,Bronze,Organic
+CUST_00823,2024-12-08,Bronze,Referral
+CUST_00824,2024-03-28,Bronze,Paid Ads
+CUST_00825,2025-01-24,Silver,Referral
+CUST_00826,2024-11-20,Gold,Referral
+CUST_00827,2024-06-05,Bronze,Organic
+CUST_00828,2025-10-29,Bronze,Social Media
+CUST_00829,2025-10-12,Silver,Paid Ads
+CUST_00830,2025-09-24,Bronze,Organic
+CUST_00831,2025-07-30,Bronze,Social Media
+CUST_00832,2025-09-10,Bronze,Referral
+CUST_00833,2025-10-20,Bronze,Referral
+CUST_00834,2024-05-16,Bronze,Paid Ads
+CUST_00835,2025-11-04,Bronze,Paid Ads
+CUST_00836,2025-03-03,Bronze,Paid Ads
+CUST_00837,2025-03-27,Gold,Organic
+CUST_00838,2025-09-03,Bronze,Organic
+CUST_00839,2024-05-20,Silver,Social Media
+CUST_00840,2024-03-23,Silver,Organic
+CUST_00841,2024-06-25,Bronze,Organic
+CUST_00842,2024-07-16,Silver,Referral
+CUST_00843,2025-09-15,Bronze,Referral
+CUST_00844,2025-07-21,Platinum,Referral
+CUST_00845,2025-11-21,Bronze,Social Media
+CUST_00846,2025-02-24,Bronze,Organic
+CUST_00847,2025-02-04,Bronze,Organic
+CUST_00848,2025-11-28,Platinum,Organic
+CUST_00849,2025-04-15,Silver,Social Media
+CUST_00850,2024-08-05,Silver,Referral
+CUST_00851,2025-09-23,Bronze,Organic
+CUST_00852,2024-06-23,Silver,Paid Ads
+CUST_00853,2024-01-23,Bronze,Social Media
+CUST_00854,2024-08-22,Gold,Paid Ads
+CUST_00855,2024-01-13,Bronze,Social Media
+CUST_00856,2024-04-10,Bronze,Organic
+CUST_00857,2025-06-19,Bronze,Paid Ads
+CUST_00858,2025-06-06,Bronze,Referral
+CUST_00859,2025-03-27,Silver,Paid Ads
+CUST_00860,2025-03-06,Bronze,Paid Ads
+CUST_00861,2025-08-28,Silver,Paid Ads
+CUST_00862,2025-06-16,Bronze,Paid Ads
+CUST_00863,2025-10-13,Silver,Organic
+CUST_00864,2024-10-19,Bronze,Referral
+CUST_00865,2024-04-10,Bronze,Social Media
+CUST_00866,2025-05-16,Silver,Social Media
+CUST_00867,2024-10-30,Bronze,Organic
+CUST_00868,2025-06-23,Bronze,Organic
+CUST_00869,2025-07-06,Gold,Organic
+CUST_00870,2024-12-20,Gold,Paid Ads
+CUST_00871,2024-10-29,Bronze,Paid Ads
+CUST_00872,2025-05-10,Bronze,Organic
+CUST_00873,2025-10-19,Silver,Referral
+CUST_00874,2024-08-14,Bronze,Paid Ads
+CUST_00875,2024-08-23,Bronze,Paid Ads
+CUST_00876,2025-03-30,Bronze,Referral
+CUST_00877,2024-01-13,Silver,Referral
+CUST_00878,2024-07-28,Silver,Referral
+CUST_00879,2025-01-31,Bronze,Organic
+CUST_00880,2024-04-09,Bronze,Referral
+CUST_00881,2024-01-31,Bronze,Paid Ads
+CUST_00882,2025-06-11,Silver,Social Media
+CUST_00883,2025-10-10,Bronze,Referral
+CUST_00884,2024-11-24,Bronze,Paid Ads
+CUST_00885,2024-06-14,Silver,Organic
+CUST_00886,2025-04-03,Bronze,Referral
+CUST_00887,2024-04-09,Silver,Organic
+CUST_00888,2025-09-12,Bronze,Organic
+CUST_00889,2024-06-21,Bronze,Paid Ads
+CUST_00890,2024-06-10,Bronze,Social Media
+CUST_00891,2024-09-19,Silver,Organic
+CUST_00892,2024-09-30,Gold,Referral
+CUST_00893,2024-01-03,Gold,Paid Ads
+CUST_00894,2024-01-28,Bronze,Organic
+CUST_00895,2024-11-21,Silver,Referral
+CUST_00896,2024-05-28,Bronze,Paid Ads
+CUST_00897,2025-06-23,Bronze,Referral
+CUST_00898,2025-05-02,Gold,Organic
+CUST_00899,2025-03-13,Bronze,Organic
+CUST_00900,2024-03-05,Bronze,Paid Ads
+CUST_00901,2024-12-21,Bronze,Referral
+CUST_00902,2025-06-16,Bronze,Organic
+CUST_00903,2024-09-08,Bronze,Paid Ads
+CUST_00904,2024-08-22,Silver,Organic
+CUST_00905,2024-08-14,Bronze,Paid Ads
+CUST_00906,2025-06-08,Gold,Organic
+CUST_00907,2024-11-08,Gold,Social Media
+CUST_00908,2024-02-18,Bronze,Organic
+CUST_00909,2024-04-27,Bronze,Organic
+CUST_00910,2024-02-23,Bronze,Organic
+CUST_00911,2025-10-11,Silver,Organic
+CUST_00912,2025-07-18,Bronze,Social Media
+CUST_00913,2024-02-13,Silver,Social Media
+CUST_00914,2024-02-22,Bronze,Organic
+CUST_00915,2025-08-08,Silver,Referral
+CUST_00916,2025-07-11,Bronze,Paid Ads
+CUST_00917,2025-06-08,Bronze,Social Media
+CUST_00918,2025-11-07,Gold,Referral
+CUST_00919,2024-04-11,Silver,Organic
+CUST_00920,2025-02-01,Bronze,Referral
+CUST_00921,2024-05-17,Gold,Paid Ads
+CUST_00922,2025-11-05,Bronze,Organic
+CUST_00923,2025-01-21,Gold,Referral
+CUST_00924,2024-04-20,Silver,Organic
+CUST_00925,2025-09-05,Bronze,Paid Ads
+CUST_00926,2024-01-17,Bronze,Organic
+CUST_00927,2024-06-30,Bronze,Referral
+CUST_00928,2025-06-19,Silver,Referral
+CUST_00929,2025-06-24,Silver,Referral
+CUST_00930,2024-06-19,Bronze,Organic
+CUST_00931,2025-02-12,Bronze,Referral
+CUST_00932,2025-01-12,Gold,Referral
+CUST_00933,2024-07-06,Platinum,Referral
+CUST_00934,2024-08-17,Silver,Referral
+CUST_00935,2024-04-28,Bronze,Paid Ads
+CUST_00936,2024-06-04,Bronze,Paid Ads
+CUST_00937,2025-11-17,Bronze,Organic
+CUST_00938,2025-04-09,Gold,Paid Ads
+CUST_00939,2024-04-13,Bronze,Referral
+CUST_00940,2025-08-26,Silver,Organic
+CUST_00941,2025-11-28,Bronze,Organic
+CUST_00942,2025-05-16,Silver,Organic
+CUST_00943,2025-11-23,Silver,Paid Ads
+CUST_00944,2025-11-12,Gold,Paid Ads
+CUST_00945,2025-11-29,Bronze,Paid Ads
+CUST_00946,2024-06-23,Bronze,Referral
+CUST_00947,2025-11-04,Bronze,Referral
+CUST_00948,2025-02-24,Gold,Organic
+CUST_00949,2024-05-13,Gold,Organic
+CUST_00950,2025-01-25,Silver,Referral
+CUST_00951,2025-05-15,Silver,Organic
+CUST_00952,2025-10-26,Silver,Organic
+CUST_00953,2024-02-02,Bronze,Referral
+CUST_00954,2024-02-24,Gold,Paid Ads
+CUST_00955,2025-06-02,Bronze,Social Media
+CUST_00956,2025-09-29,Bronze,Social Media
+CUST_00957,2024-01-12,Silver,Referral
+CUST_00958,2025-06-11,Bronze,Referral
+CUST_00959,2025-07-08,Bronze,Referral
+CUST_00960,2025-01-07,Silver,Paid Ads
+CUST_00961,2025-04-28,Bronze,Organic
+CUST_00962,2025-10-08,Silver,Referral
+CUST_00963,2024-08-15,Bronze,Paid Ads
+CUST_00964,2025-09-14,Bronze,Organic
+CUST_00965,2024-11-02,Bronze,Referral
+CUST_00966,2025-04-01,Bronze,Referral
+CUST_00967,2024-06-08,Silver,Organic
+CUST_00968,2024-11-26,Bronze,Organic
+CUST_00969,2024-08-12,Silver,Organic
+CUST_00970,2025-05-18,Bronze,Organic
+CUST_00971,2025-03-31,Silver,Organic
+CUST_00972,2024-02-14,Gold,Paid Ads
+CUST_00973,2024-08-01,Silver,Organic
+CUST_00974,2024-02-28,Bronze,Referral
+CUST_00975,2025-10-05,Bronze,Organic
+CUST_00976,2025-09-07,Bronze,Social Media
+CUST_00977,2024-07-13,Silver,Organic
+CUST_00978,2025-05-03,Bronze,Referral
+CUST_00979,2024-06-05,Bronze,Social Media
+CUST_00980,2025-09-01,Silver,Paid Ads
+CUST_00981,2024-08-13,Bronze,Organic
+CUST_00982,2025-02-15,Silver,Paid Ads
+CUST_00983,2024-07-23,Bronze,Referral
+CUST_00984,2024-03-19,Bronze,Referral
+CUST_00985,2024-05-03,Silver,Organic
+CUST_00986,2025-04-15,Bronze,Organic
+CUST_00987,2024-08-05,Silver,Paid Ads
+CUST_00988,2025-05-30,Bronze,Referral
+CUST_00989,2025-08-24,Bronze,Referral
+CUST_00990,2024-04-13,Gold,Paid Ads
+CUST_00991,2025-01-27,Silver,Paid Ads
+CUST_00992,2025-09-22,Silver,Organic
+CUST_00993,2025-10-06,Bronze,Referral
+CUST_00994,2025-08-30,Silver,Organic
+CUST_00995,2025-03-09,Bronze,Paid Ads
+CUST_00996,2024-11-26,Bronze,Paid Ads
+CUST_00997,2024-05-22,Gold,Social Media
+CUST_00998,2025-06-23,Bronze,Organic
+CUST_00999,2024-10-04,Platinum,Organic
+CUST_01000,2024-08-20,Bronze,Organic
