@@ -35,6 +35,7 @@ uber-eats-ml-system/
 ├── data_dictionary.md        # Comprehensive schema documentation
 ├── requirements.txt          # Environment dependencies
 └── README.md                 # Project technical documentation
+```
 
 ## Key Findings & Business Impact
 
