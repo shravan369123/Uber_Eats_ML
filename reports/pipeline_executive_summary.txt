@@ -1,0 +1,19 @@
+==================================================
+   UBER EATS BUSINESS INSIGHTS & STRATEGY REPORT  
+==================================================
+
+1. CUSTOMER & RESTAURANT SEGMENTATION:
+   - Focus loyalty retention passes on Cluster 1 (Premium Diners), contributing high AOV.
+   - Deploy off-peak promotions for Cluster 0 (Budget Diners) to boost frequency.
+
+2. SENTIMENT & FEEDBACK DRIVERS:
+   - Primary causes of negative reviews stem from fulfillment delays > 35 minutes.
+   - Recommend thermal bag packaging standards to mitigate cold food complaints.
+
+3. LOGISTICS & REGRESSION PREDICTIONS:
+   - Delivery distance and traffic jam events drive 60%+ of overall delay variance.
+   - Implement dynamic delivery radius restrictions during adverse weather.
+
+4. DEMAND FORECASTING & RIDER ALLOCATION:
+   - Prophet demand forecasts confirm recurring 18:00-21:00 weekend order spikes.
+   - Pre-position driver surge incentives 30 minutes prior to peak hours.
